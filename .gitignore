@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# AWS credential files
+*.json
