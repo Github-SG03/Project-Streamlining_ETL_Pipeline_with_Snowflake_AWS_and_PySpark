@@ -120,7 +120,7 @@ This part of above code output should be pasted to SNS JSON Preview.
 {
 
 "Sid":"1","Effect":"Allow","Principal":{"AWS":"XXXXX"},"Action":["sns:Subscribe"],"Resource":["XXXXXXX"]
-
+5
 }
 
 5. Finally, we are done with the setup of setting automatic data flow from S3 to Snowflake by registering events in, while adding file in S3 and sending message to SQS queue to update data in Snowflake
