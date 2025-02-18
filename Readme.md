@@ -1,4 +1,4 @@
-**Streamlining ETL Pipeline with Snowflake, AWS, and PySpark**
+# Streamlining ETL Pipeline with Snowflake, AWS, and PySpark
 Streamlin the data pipeline to set up an efficient ETL pipeline using Snowflake, AWS, and PySpark with this insightful guide. Covering AWS setup, data movement strategies, Snowflake object creation, and PySpark data transformation with databricks, it equips readers with essential skills for automating data flow from a data lake to a data warehouse.
 
 Updated on November 25, 2024
